@@ -2,7 +2,7 @@
 
 I am currently a third-year PhD. student of University of Science and Technology of China, under the supervision by Asst. Prof. Xueyang Fu. My research interests includes remote sensing image processing, image restoration.
 
-Homepage: https://Man-zhou-ustc.github.io
+Homepage: https://Manzhou-ustc.github.io
 
 Email: manman@mail.ustc.edu.cn
 
