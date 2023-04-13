@@ -6,5 +6,4 @@ Homepage: https://manman1995.github.io
 
 Email: manman@mail.ustc.edu.cn
 
-This repository is forked and revised from https://github.com/shiming-chen.github.io
 Welcome to fork my repositories if your are interested in my source codes.
